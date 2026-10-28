@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-fts5-rowidmerge">sqlite-fts5-rowidmerge</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-fts5-rowidmerge"><strong>https://abraxaslabs.tech/research/sqlite-fts5-rowidmerge</strong></a>
+</p>
+
 
 # sqlite-fts5-rowidmerge
 
